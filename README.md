@@ -9,7 +9,9 @@ However, many new NFT projects are registering their work in the public domain a
 Inspired by the Royalty Registry and Royalty Engine found at [Royaltyregistry.xyz](https://royaltyregistry.xyz/), this project is intended to create a searchable index for NFT rights and eventually a registry for updating rights on-chain.
 
 # The List
-Submit an NFT or collection to our list [here](https://forms.gle/pzWoZMTDiDC5VDz99).
+For CC0 projects, search and add projects directly on [CC0.dev](https://www.cc0.dev/).
+
+For non-CC0 projects that grant copyrights or trademarks, submit an NFT or collection to our list [here](https://forms.gle/pzWoZMTDiDC5VDz99).
 
 View the NFT Rights Registry list [here](https://docs.google.com/spreadsheets/d/1wkOv_yIwv6SU32I1vIZ7n24_1ZvgMfHbxxhaCTMN00s/edit?usp=sharing).
 

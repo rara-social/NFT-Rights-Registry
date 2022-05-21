@@ -1,11 +1,26 @@
 # NFT-Rights-Registry
 
-The NFT Rights Registry is open-sourced list of NFTs according to their copyright, trademark, and other licenses and rights.
+The NFT Rights Registry is an open-sourced list of NFTs according to their copyright, trademark, and other rights.
 
-NFT standards and the related smart contracts have no concept of law or licensing agreements off-chain. Most NFTs are sold to collectors with no mention of copyright, trademark, or other rights given to the collector. As a result, the creator has "all rights reservered" for the "work" of the NFT.  
+NFT standards and smart contracts do not recognize off-chain law or licensing agreements. Most NFTs are sold with no mention of copyright, trademark, or other rights given to the collector. As a result, the creator has "all rights reservered" for the "work" of the NFT.  
 
 However, many new NFT projects are registering their work in the public domain as [CC0](https://creativecommons.org/choose/zero/waiver) or otherwise granting explicit copyrights and trademarks licenses. 
 
-This project is intended to create a searchable index for these NFTs.
+Inspired by the Royalty Registry and Royalty Engine found at [Royaltyregistry.xyz](https://royaltyregistry.xyz/), this project is intended to create a searchable index for NFT rights and eventually a registry for updating rights on-chain.
 
+# The List
+Submit an NFT or collection to our list [here](https://forms.gle/pzWoZMTDiDC5VDz99).
 
+View the NFT Rights Registry list [here](https://docs.google.com/spreadsheets/d/1wkOv_yIwv6SU32I1vIZ7n24_1ZvgMfHbxxhaCTMN00s/edit?usp=sharing).
+
+# Related Projects
+
+There are a number or projects working on indexing NFTs copyrights and solving IP related concerns including the following:
+* [CC0.dev](https://www.cc0.dev/) ([GithHub](https://github.com/JeanMarcSaad/cc0.dev)) - Website to report and index CC0 projects. Projects are added to this list manuallyl by anyone (as opposed to the creator only) or via scraping OpenSea's APIs for NFT descriptions that include "CC0". *Note: these projects should be independently verified to ensure the creator explicity waived rights and the CC0 waiver was properly executed (i.e. just including "My NFTs are CC0!" may not be enough to waive all rights as detailed in the "CC0 1.0 Universal" license found [here](https://creativecommons.org/choose/zero/waiver)*;
+*  [Rightsregistry.xyz](https://rightsregistry.xyz/) aka [Mintangible]([mintangible.io](https://mintangible.io)) - Website to "easily create and embed IP terms for NFTs (non functioning as of 5.21.2022);
+*  [Royaltyregistry.xyz](https://royaltyregistry.xyz/) - website for open-sourced project for configuring and searching for on-chain royalties including:
+    - The Royalty Registry is an on chain contract that is responsible for storing Royalty configuration overrides; and
+    - The Royalty Engine is a contract that provides an easy way for any marketplace to look up royalties for any given token contract.;
+
+# Disclaimer
+This project is provided "as is" with no warranties of being accurate or current. Additionally, this project is not intended to be legal advice and we are not your attorney. You should independently review NFT copyrights, trademark, and other licenes with your legal counsel prior to making any decisions.

@@ -15,7 +15,7 @@ For non-CC0 projects that grant copyrights or trademarks, submit an NFT or colle
 
 View the NFT Rights Registry list [here](https://docs.google.com/spreadsheets/d/1wkOv_yIwv6SU32I1vIZ7n24_1ZvgMfHbxxhaCTMN00s/edit?usp=sharing).
 
-# Related Projects
+# Related Projects and Resources
 
 There are a number or projects working on indexing NFTs copyrights and solving IP related concerns including the following:
 * [CC0.dev](https://www.cc0.dev/) ([GithHub](https://github.com/JeanMarcSaad/cc0.dev)) - Website to report and index CC0 projects. Projects are added to this list manuallyl by anyone (as opposed to the creator only) or via scraping OpenSea's APIs for NFT descriptions that include "CC0". *Note: listed projects should be independently verified to ensure the creator explicity waived rights and the CC0 waiver was properly executed as just including "My NFTs are CC0!" may not be enough to waive all rights as detailed in the "CC0 1.0 Universal" license found [here](https://creativecommons.org/choose/zero/waiver)*;
@@ -23,6 +23,7 @@ There are a number or projects working on indexing NFTs copyrights and solving I
 *  [Royaltyregistry.xyz](https://royaltyregistry.xyz/) - website for open-sourced project for configuring and searching for on-chain royalties including:
     - The Royalty Registry is an on chain contract that is responsible for storing Royalty configuration overrides; and
     - The Royalty Engine is a contract that provides an easy way for any marketplace to look up royalties for any given token contract.;
+* [The Cryptic Case of the CryptoPunks Licenses: The Mystery Over the Licenses for CryptoPunks NFTs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978963)
 
 # Disclaimer
 This project is provided "as is" with no warranties of being accurate or current. Additionally, this project is not intended to be legal advice and we are not your attorney. You should independently review NFT copyrights, trademark, and other licenes with your legal counsel prior to making any decisions.

@@ -24,6 +24,7 @@ There are a number or projects working on indexing NFTs copyrights and solving I
     - The Royalty Registry is an on chain contract that is responsible for storing Royalty configuration overrides; and
     - The Royalty Engine is a contract that provides an easy way for any marketplace to look up royalties for any given token contract.;
 * [The Cryptic Case of the CryptoPunks Licenses: The Mystery Over the Licenses for CryptoPunks NFTs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978963)
+* [Curio Card Licensing](https://docs.curio.cards/info/artwork-licensing) - pre-ERC-721 NFTs with list of varying licenses by card and artist.
 
 # Disclaimer
 This project is provided "as is" with no warranties of being accurate or current. Additionally, this project is not intended to be legal advice and we are not your attorney. You should independently review NFT copyrights, trademark, and other licenes with your legal counsel prior to making any decisions.
